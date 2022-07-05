@@ -1,2 +1,2 @@
 # app_liburan
-untuk memenuhi tugas APB
+the properties in this repository are only for campus assignments
